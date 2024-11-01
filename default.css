@@ -1,0 +1,83 @@
+.wpmeetupactivity-setup-fieldset {
+    border:1px solid #aaa; 
+    border-radius: 5px; 
+    padding: 5px;
+    margin: 5px;
+}
+
+.wpmeetupactivity-setup-fieldset legend {
+    font-weight:bold;
+    padding: 3px;
+    border-radius: 5px; 
+    background: #aaa;
+    color: #fff;
+}
+
+.wpmeetupactivity-widget-list {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.wpmeetupactivity-widget-list li {  
+    border-bottom: 1px solid #ccc;
+}
+
+.wpmeetupactivity-widget-list li p {  
+    padding-left: 5px;
+}
+
+.wpmeetupactivity-widget-list li img {  
+    float: left;  
+    margin: 0 5px 0 0;
+    padding: 2px;
+}
+
+.wpmeetupactivity-event-widget-box {
+    clear: both;
+}
+
+.wpmeetupactivity-event-widget-box-title {
+    font-size: 1.2em;
+    padding: 1px;
+}
+
+.wpmeetupactivity-event-widget-cal-box {
+    float: left;
+    width: 54px;
+    height: 54px;
+    border-radius: 5px; 
+    padding: 4px;
+    margin: 2px;
+    background: #3B5998;
+    text-align: center;
+}
+
+.wpmeetupactivity-event-widget-cal-box-day {
+    font-size: 2em;
+    color: #fff;
+    text-align: center;
+}
+
+.wpmeetupactivity-event-widget-cal-box-month {
+    font-size: 0.8em;
+    color: #fff;
+    text-align: center;
+}
+
+.wpmeetupactivity-event-widget-detail-box {
+    font-size: 1.0em;
+    text-align: justify;
+    margin: 2px;
+}
+
+.wpmeetupactivity-tipbox {
+    padding: 8px;
+    color: #333;
+    font-size: 0.8em;
+    background: #FF9;
+    border: 1px solid #FC0;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    text-align: justify;
+}
